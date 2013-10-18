@@ -8,9 +8,7 @@ http://www.cc.kyoto-su.ac.jp/~g1学生証番号/PL/SouriDaijin/
 http://www.cse.kyoto-su.ac.jp/~g1学生証番号/SouriDaijin/
 http://www.cse.kyoto-su.ac.jp/~g1学生証番号/PL/
 http://www.cse.kyoto-su.ac.jp/~g1学生証番号/PL/SouriDaijin/
-http://github.com/g1学生証番号/
-の中から全探索する。
-
+http://github.com/g1学生証番号/ の中から全探索する。
 探査スピードは4m8.340s
 subprocessから、wgetを使えばページ取得も可能
 
