@@ -1,4 +1,3 @@
-Hello!
   505  git clone https://github.com/g1145442/test
   506  cd te
   507  cd test/
@@ -9,5 +8,3 @@ Hello!
   512  git add test.txt 
   513  git commit -m "てすと"
   514  git push origin master
-
-  更新済み!!!
