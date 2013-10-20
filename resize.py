@@ -13,6 +13,8 @@ Example:
 Pydoc:	
 	pydoc -w resize
 	＊ただしpydocの仕様上、ブラウザ上でutf-8にするか、pydoc自体のソースコードの"def pages"を変更しないと文字化けする。
+	または、<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />を直接挿入
+	
 	pydoc resize
 	resize.pyの仕様をmanのように見ることが出来る。ターミナル上なので、日本語にも対応。
 	
