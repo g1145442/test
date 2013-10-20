@@ -1,10 +1,7 @@
-  505  git clone https://github.com/g1145442/test
-  506  cd te
-  507  cd test/
-  508  ls
-  509  ls -la
-  510  vim test.txt
-  511  add test.txt 
-  512  git add test.txt 
-  513  git commit -m "てすと"
-  514  git push origin master
+git clone https://github.com/g1145442/test
+cd test/
+ls -la
+vim test.txt
+git add test.txt 
+git commit -m "てすと"
+git push origin master
