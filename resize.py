@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 """
-リサイズする。
+画像をリサイズするスクリプト。
 thumbnailフォルダがなければ、自動でthumbnailフォルダを作る。
 もし、今のディレクトリにimagesフォルダがあれば、imagesフォルダの全画像をサムネイル化し、thumbnailフォルダに入れる。
 なければ、今のディレクトリの全画像をサムネイル化し、thumbnailフォルダに入れる。
@@ -14,7 +14,7 @@ Pydoc:
 	pydoc -w resize
 	＊ただしpydocの仕様上、ブラウザ上でutf-8にするか、pydoc自体のソースコードの"def pages"を変更しないと文字化けする。
 	pydoc resize
-	resize.pyの仕様をmanの用に見ることが出来る。ターミナル上なので、日本語にも対応。
+	resize.pyの仕様をmanのように見ることが出来る。ターミナル上なので、日本語にも対応。
 	
 Comment:
 	コメントの書き方は/opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/内のソースコードを参考に書きました。汚いですが、あしからず。
